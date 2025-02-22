@@ -92,7 +92,7 @@ function App() {
       }
       return {
         appsBox: true,
-        logoBox: true,
+        logoBox: false,
         timeBox: true,
         usageBox: true,
         userBox: true,
@@ -103,7 +103,7 @@ function App() {
       console.error("Failed to parse VITE_OFF_SECTIONS:", error);
       return {
         appsBox: true,
-        logoBox: true,
+        logoBox: false,
         timeBox: true,
         usageBox: true,
         userBox: true,
@@ -120,7 +120,7 @@ function App() {
         <title>{title}</title>
         <meta
           name="description"
-          content="Powered by https://github.com/MatinDehghanian"
+          content="Powered by https://t.me/offline_youu"
         />
       </Helmet>
       <Grid container justifyContent={"center"}>
