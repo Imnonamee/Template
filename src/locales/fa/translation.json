@@ -17,13 +17,13 @@
     "limited": "محدود شده"
   },
   "support": "پشتیبانی",
-  "userPanelTitle": "پنل کاربری {brandName}",
-  "userPanelWelcome": "به پنل کاربری {brandName} خوش آمدید.",
+  "userPanelTitle": "",
+  "userPanelWelcome": "",
   "operatingSystems": "انتخاب سیستم عامل",
   "configuration": "افرودن به برنامه",
   "download": "دانلود",
   "watchVideo": "آموزش برنامه",
-  "configsList": "همه پروکسی ها",
+  "configsList": "همه کانفیگ ها",
   "emergancyList": "کانفیگ های اضطراری",
   "linkCopied": "لینک کپی شد",
   "expired": "تمام شده",
@@ -43,6 +43,5 @@
   "light": "روشن",
   "dark": "تیره",
   "ended": "پایان یافته",
-  "tutorialTitle": "آموزش",
-  "ad": "تبلیغات"
+  "tutorialTitle": "آموزش"
 }
