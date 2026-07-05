@@ -35,7 +35,7 @@
 
 ۱. **قالب رو با دستور زیر دانلود کنید**
    ```sh
-   sudo wget -N -P /var/lib/marzban/templates/subscription/ https://github.com/MatinDehghanian/Ourenus/releases/latest/download/index.html
+   sudo wget -N -P /var/lib/marzban/templates/subscription/ https://github.com/Imnonamee/Template/releases/latest/download/index.html
    ```
 
 ۲. **دستورات زیر رو تو ترمینال سرورتون بزنید**
@@ -58,7 +58,7 @@
 
 ۱. **قالب رو با دستور زیر دانلود کنید**
    ```sh
-   sudo wget -N -P /var/lib/marzneshin/templates/subscription/ https://github.com/MatinDehghanian/Ourenus/releases/latest/download/index.html
+   sudo wget -N -P /var/lib/marzneshin/templates/subscription/ https://github.com/Imnonamee/Template/releases/latest/download/index.html
    ```
 
 ۲. **دستورات زیر رو تو ترمینال سرورتون بزنید**
@@ -139,7 +139,7 @@
 
 1. **Download the Template File:**
    ```sh
-   sudo wget -N -P /var/lib/marzban/templates/subscription/ https://github.com/MatinDehghanian/Ourenus/releases/latest/download/index.html
+   sudo wget -N -P /var/lib/marzban/templates/subscription/ https://github.com/Imnonamee/Template/releases/latest/download/index.html
    ```
 
 2. **Execute the Following Commands in Your Server Terminal:**
@@ -162,7 +162,7 @@
 
 1. **Download the Template File:**
    ```sh
-   sudo wget -N -P /var/lib/marzneshin/templates/subscription/ https://github.com/MatinDehghanian/Ourenus/releases/latest/download/index.html
+   sudo wget -N -P /var/lib/marzneshin/templates/subscription/ https://github.com/Imnonamee/Template/releases/latest/download/index.html
    ```
 
 2. **Execute the Following Commands in Your Server Terminal:**
